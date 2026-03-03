@@ -1,4 +1,4 @@
-<h1 align="starting">Heyy!👋,I'm Divya Mer</h1>
+<h1 align="starting">Heyy!👋 Everyone</h1>
 <h2 align="center">Passionate Software Development</h2>
 
 ## 🌐 Socials:
