@@ -1,8 +1,8 @@
-Hi 👋 My name is Divya Mer
+Hi 👋 I'm Divya Mer
 ==========================
 
-* ✉️  You can contact me at [Dravix287@gmail.com](mailto:Dravix287@gmail.com)
-* 🧠  I'm currently learning Java Typescript
+* ✉️  You can contact me at [Dravix287@gmail.com](mailto:Dravixx287@gmail.com)
+* 🧠  I'm currently learning Java,Typescript
 * 👥  I'm looking to collaborate on Real World Project
 
 
