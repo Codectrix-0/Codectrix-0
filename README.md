@@ -2,7 +2,9 @@
 👋 Hi, I'm Divya Mer
 
 🎓 BCA 1st Year Student
+
 🚀 GSSoC 2026 Contributor
+
 💻 Passionate about Development & Open Source
 
 ---
@@ -15,6 +17,8 @@
 - 🎯 Goal: Become a strong developer & open source contributor
 
 ---
+- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/11/c1/57/11c157dfb8b83e1aad065cb3f7fee52d.jpg">
+
 
 ## 💻 Tech Stack  
 
@@ -95,6 +99,5 @@ I enjoy building projects and learning new technologies
 
 
 
-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/11/c1/57/11c157dfb8b83e1aad065cb3f7fee52d.jpg">
 
 
