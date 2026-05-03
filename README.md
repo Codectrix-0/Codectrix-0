@@ -47,42 +47,45 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Codectrix-0&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
-📈 Contribution Graph
+## 📈 Contribution Graph  
 
-"Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&theme=react-dark&hide_border=true"/>
+</p>
 
----
+## 🔝 Top Contributed Repositories  
 
-🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Codectrix-0&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
 
-"Top Repo" (https://github-contributor-stats.vercel.app/api?username=Codectrix-0&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## ✍️ Random Dev Quote  
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
-✍️ Random Dev Quote
+## 🐍 Contribution Snake  
 
-"Quote" (https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Snake animation](https://raw.githubusercontent.com/Codectrix-0/Codectrix-0/output/github-contribution-grid-snake.svg)
 
----
+## 👀 Profile Views  
 
-🐍 Contribution Snake
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Codectrix-0&label=Profile%20Views&color=blue&style=flat"/>
+</p>
 
-"Snake" (https://raw.githubusercontent.com/Codectrix-0/Codectrix-0/output/github-contribution-grid-snake.svg)
+## 📫 Connect With Me  
 
----
-
-👀 Profile Views
-
-"Views" (https://komarev.com/ghpvc/?username=Codectrix-0&label=Profile%20Views&color=blue&style=flat)
-
----
-
-📫 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- 💬 Discord: diva.a_0
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Codectrix-0">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-diva.a_0-5865F2?style=for-the-badge&logo=discord"/>
+</p>
 
 ⚡ Fun Fact
 
