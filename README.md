@@ -45,6 +45,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/></p>
 
+  ## 🐍 Contribution Snake  
+
+![Snake animation](https://raw.githubusercontent.com/Codectrix-0/Codectrix-0/output/github-contribution-grid-snake.svg)
+
+
 ## 🏆 GitHub Trophies  
 
 <p align="center">
@@ -69,9 +74,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-## 🐍 Contribution Snake  
-
-![Snake animation](https://raw.githubusercontent.com/Codectrix-0/Codectrix-0/output/github-contribution-grid-snake.svg)
 
 ## 👀 Profile Views  
 
