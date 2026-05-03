@@ -16,21 +16,19 @@
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack  
 
-"C" (https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-"C++" (https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-"Python" (https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-"Java" (https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-"JavaScript" (https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-"HTML" (https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-"CSS" (https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-"Git" (https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-"Linux" (https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-"Figma" (https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-
----
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)  
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)  
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
 📊 GitHub Stats
 
