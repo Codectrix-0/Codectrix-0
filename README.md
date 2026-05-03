@@ -91,11 +91,6 @@
   <img src="https://img.shields.io/badge/Discord-diva.a_0-5865F2?style=for-the-badge&logo=discord"/>
 </p>
 
-⚡ Fun Fact
-
-I enjoy building projects and learning new technologies
-
-
 
 
 
