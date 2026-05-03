@@ -18,9 +18,17 @@ Hi 👋 I'm Divya Mer
 <a href="https://www.github.com/Codectrix-0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Codectrix-0?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
 
+
 <img src="https://raw.githubusercontent.com/Codectrix-0/Codectrix-0/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Codectrix-0.Codectrix-0&"  />
+</div>
+
+###
+
 
 ### Badges
 
