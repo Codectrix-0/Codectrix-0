@@ -39,15 +39,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/></p>
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codectrix-0&theme=radical&no-frame=true&margin-w=10"/>
 </p>
----
-
-🏆 GitHub Trophies
-
-"Trophies" (https://github-profile-trophy.vercel.app/?username=Codectrix-0&theme=radical&no-frame=true&margin-w=5)
-
----
 
 📈 Contribution Graph
 
