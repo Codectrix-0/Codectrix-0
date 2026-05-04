@@ -34,7 +34,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)  
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
-
 ## 📊 GitHub Status  
 
 <p align="center">
@@ -44,6 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/></p>
+
 
   ## 🐍 Contribution Snake  
 
