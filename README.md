@@ -90,7 +90,7 @@
   <a href="https://github.com/Codectrix-0">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-diva.a_0-5865F2?style=for-the-badge&logo=discord"/>
+  <img src="https://img.shields.io/badge/Discord-diva.a_0-1462839323648069831 5865F2?style=for-the-badge&logo=discord"/>
 </p>
 
 
