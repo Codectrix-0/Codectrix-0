@@ -62,11 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&theme=react-dark&hide_border=true"/>
 </p>
 
-## 🔝 Top Contributed Repositories  
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Codectrix-0&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
+#
 
 ## ✍️ Random Dev Quote  
 
