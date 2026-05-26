@@ -53,7 +53,7 @@ Hey 👋 I'm Divya Mer
 
 ---
 
-# ✦ about me
+# 🌟ABOUT ME :
 
 <div align="center">
 
