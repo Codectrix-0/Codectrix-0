@@ -33,6 +33,22 @@ Hey 👋 I'm Divya Mer
 
 <img src="https://img.shields.io/github/stars/Codectrix-0?style=for-the-badge&color=yellow"/>
 
+<div align="center">
+
+🌐 CONNECT WITH ME
+
+<a href="https://github.com/Codectrix-0">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:divyamer066@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divyamer/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </div>
 
 ---
@@ -114,25 +130,7 @@ Hey 👋 I'm Divya Mer
 
 ---
 
-# 🌐 CONNECT WITH ME
 
-<div align="center">
-
-<a href="https://github.com/Codectrix-0">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:divyamer066@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/divyamer/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</div>
-
----
 
 ## ✍️ Random Dev Quote  
 
