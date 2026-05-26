@@ -65,6 +65,8 @@ Hey 👋 I'm Divya Mer
 ---
 
 
+
+
 ## 📊 GitHub Status  
 
 <p align="center">
@@ -86,7 +88,7 @@ Hey 👋 I'm Divya Mer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
