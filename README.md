@@ -82,7 +82,6 @@ Hey 👋 I'm Divya Mer
 
 
 
-
 ## 📊 GitHub Status  
 
 <p align="center">
