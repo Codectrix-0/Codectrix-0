@@ -35,7 +35,9 @@ Hey 👋 I'm Divya Mer
 
 <div align="center">
 
+
 🌐 CONNECT WITH ME
+
 
 <a href="https://github.com/Codectrix-0">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -91,6 +93,7 @@ Hey 👋 I'm Divya Mer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/></p> 
+  
 
 ## 🏆 GitHub Trophies  
 
