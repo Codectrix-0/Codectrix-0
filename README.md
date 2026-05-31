@@ -20,7 +20,7 @@ Hey 👋 I'm Divya Mer
 </h1>
 
 <h3 align="center">
-💫 Turning Ideas into Reality Through Code 💫
+Turning Ideas into Reality Through Code 
 </h3>
 
 ---
@@ -93,6 +93,7 @@ Hey 👋 I'm Divya Mer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/></p> 
+
   
 
 ## 🏆 GitHub Trophies  
