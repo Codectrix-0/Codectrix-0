@@ -84,22 +84,24 @@ Turning Ideas into Reality Through Code
 
 
 
-## 📊 GitHub Status  
+## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codectrix-0&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=Codectrix-0&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codectrix-0&show_icons=true&theme=radical&hide_border=true" height="160" />
+
+  <img src="https://streak-stats.demolab.com?user=codectrix-0&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/></p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codectrix-0&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
 
+---
 
-
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codectrix-0&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codectrix-0&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 
