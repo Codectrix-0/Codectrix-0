@@ -72,7 +72,7 @@ Turning Ideas into Reality Through Code
 
 ---
 
-# ⚡ TECH ARSENAL
+# 💻 TECH ARSENAL
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Turning Ideas into Reality Through Code
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/></p> 
 
-  
+
 
 ## 🏆 GitHub Trophies  
 
