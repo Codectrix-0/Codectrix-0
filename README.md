@@ -19,12 +19,6 @@
 Hey 👋 I'm Divya Mer
 </h1>
 
-<h3 align="center">
-Turning Ideas into Reality Through Code 
-</h3>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Codectrix-0&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
@@ -34,6 +28,16 @@ Turning Ideas into Reality Through Code
 <img src="https://img.shields.io/github/stars/Codectrix-0?style=for-the-badge&color=yellow"/>
 
 <div align="center">
+
+  ---
+
+  
+<h3 align="center">
+Turning Ideas into Reality Through Code 
+</h3>
+
+---
+
 
 
 🌐 CONNECT WITH ME
