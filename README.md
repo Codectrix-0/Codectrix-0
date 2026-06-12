@@ -162,14 +162,9 @@ Turning Ideas into Reality Through Code
 ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 
 Status : ONLINE 🟢
-Mode   : BUILDING THE FUTURE 🚀
 ```
 
 ---
-
-<div align="center">
-
-##    Code. Learn. Build. Repeat
 
 
 </div>
