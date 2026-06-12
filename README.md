@@ -132,7 +132,6 @@ Turning Ideas into Reality Through Code
 |---|---|
 | Donation Management System | C-based system for efficient donation management |
 | Learning-C | Beginner-friendly C programming repository |
-| LeetCode Solutions | DSA & problem-solving collection |
 | Open Source Contributions | Contributing to community projects |
 
 </div>
