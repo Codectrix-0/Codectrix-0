@@ -91,19 +91,14 @@ Turning Ideas into Reality Through Code
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codectrix-0&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codectrix-0&show_icons=true&theme=radical&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codectrix-0&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
-</p>
 
 
 # 📈 CONTRIBUTION GRAPH
