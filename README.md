@@ -58,10 +58,7 @@ Hey 👋 I'm Divya Mer
 
 ```yaml
 🎓 Education:
-  BCA Second Year Student
-
-💼 Experience:
-  Frontend Developer Intern @ CodeAlpha
+  BCA Second Year Student 
 
 🌍 Open Source:
   GSSoC 2026 Contributor
