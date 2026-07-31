@@ -31,12 +31,6 @@ Hey 👋 I'm Divya Mer
 
   ---
 
-  
-<h3 align="center">
-Turning Ideas into Reality Through Code 
-</h3>
-
----
 
 
 
@@ -59,20 +53,78 @@ Turning Ideas into Reality Through Code
 
 ---
 
-# 🌟ABOUT ME :
 
-<div align="center">
+# 💫 About Me
 
 ```yaml
-🎓 Education → BCA Student (Second Year)
-💻 Focus     → Development · Open Source
-🌱 Learning  → Java · JavaScript · Backend
-🛠 Skills    → C · C++ · Python · HTML · CSS · Git · Linux · Figma
-🚀 Goal      → Become a Strong Software Developer
-⚡ Status    → Learning & Growing Every Day
+🎓 Education:
+  BCA Second Year Student
+
+💼 Experience:
+  Frontend Developer Intern @ CodeAlpha
+
+🌍 Open Source:
+  GSSoC 2026 Contributor
+  ECSOC Contributor
+
+💻 Interests:
+  Frontend Development
+  Open Source
+  UI Design
+
+🌱 Currently Learning:
+  JavaScript
+  React
+  Backend Development
+
+🎯 Goal:
+  Become a Software Engineer
+  Build impactful projects
 ```
 
-</div>
+---
+
+# 🚀 Current Focus
+
+- 🌍 Contributing to Open Source
+- ⚛️ Learning React
+- 🧩 Backend Fundamentals
+- 🎨 Building Better UI/UX
+- 📚 Improving Programming Fundamentals
+
+---
+
+# 💼 Experience
+
+## 🚀 Frontend Developer Intern
+
+### CodeAlpha
+
+**July 2026**
+
+- Developed frontend interfaces
+- Improved UI components
+- Worked with Git & GitHub workflow
+- Completed internship projects
+
+---
+
+# 🌍 Open Source Journey
+
+## ⭐ GirlScript Summer of Code 2026
+
+- Open Source Contributor
+- Solved Issues
+- Created Pull Requests
+- Collaborated with Maintainers
+
+---
+
+## ⭐ ECSOC
+
+- Open Source Contributor
+- Learning collaborative development
+- Working on real repositories
 
 ---
 
@@ -101,6 +153,17 @@ Turning Ideas into Reality Through Code
 ---
 
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Codectrix-0&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+
 # 📈 CONTRIBUTION GRAPH
 
 <div align="center">
@@ -116,19 +179,42 @@ Turning Ideas into Reality Through Code
 ![Snake animation](https://raw.githubusercontent.com/Codectrix-0/Codectrix-0/output/github-contribution-grid-snake.svg)
 
 
-# 🌟 FEATURED PROJECTS
+
+# 🌟 Featured Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🌐 Portfolio Website | Personal portfolio showcasing my projects and journey |
+| ✅ Smart Task Manager | Task management application with modern UI |
+| 💰 FinFlow | Expense Tracker built using HTML, CSS & JavaScript |
+| 🧠 MindEase | Mental wellness themed web application |
+| ❤️ Donation Management System | C Project for donation management |
+| 🌍 Open Source Contributions | Contributions through GSSoC & ECSOC |
+
+---
+
+# 🏆 Achievements
+
+🏅 Frontend Developer Intern — CodeAlpha
+
+🌍 GSSoC 2026 Contributor
+
+🌍 ECSOC Contributor
+
+💻 Active GitHub Contributor
+
+---
+
 
 <div align="center">
 
-| 🚀 Project | 🌌 Description |
-|---|---|
-| Donation Management System | C-based system for efficient donation management |
-| Learning-C | Beginner-friendly C programming repository |
-| Open Source Contributions | Contributing to community projects |
+### ⭐ "Every contribution makes me a better developer."
 
 </div>
 
 ---
+
+
 
 
 
@@ -138,23 +224,6 @@ Turning Ideas into Reality Through Code
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-
-
-
-# 💀 TERMINAL
-
-```bash
-> Initializing Codectrix-0 profile...
-
-██████╗ ███████╗██╗   ██╗███████╗ ██████╗████████╗██████╗ ██╗██╗  ██╗
-██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██║  ██║█████╗  ██║   ██║█████╗  ██║        ██║   ██████╔╝██║ ╚███╔╝
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║        ██║   ██╔══██╗██║ ██╔██╗
-██████╔╝███████╗ ╚████╔╝ ███████╗╚██████╗   ██║   ██║  ██║██║██╔╝ ██╗
-╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-
-Status : ONLINE 🟢
-```
 
 ---
 
