@@ -140,11 +140,11 @@ Hey 👋 I'm Divya Mer
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codectrix-0&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Codectrix-0&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" />
+ <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
