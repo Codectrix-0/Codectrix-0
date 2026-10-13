@@ -9,8 +9,6 @@
 </div>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Codectrix-0&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/Codectrix-0?logo=github&style=for-the-badge&color=blueviolet"/>
 
 <img src="https://img.shields.io/github/stars/Codectrix-0?style=for-the-badge&color=yellow"/>
