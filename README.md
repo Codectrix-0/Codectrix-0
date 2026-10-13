@@ -212,37 +212,3 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:3C096C,100:0D0B14&height=100&section=footer" width="100%" alt="Purple profile footer"/>
 
-</div>
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Codectrix-0&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Codectrix-0?logo=github&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/stars/Codectrix-0?style=for-the-badge&color=yellow"/>
-
-<div align="center">
-
-  ---
-
-
-
-🌐 CONNECT WITH ME
-
-
-<a href="https://github.com/Codectrix-0">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:divyamer066@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/divyamer/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</div>
-
----
-
