@@ -32,7 +32,7 @@
 
 ---
 
-## `01 / WHO_AM_I`
+## `/ WHO_AM_I`
 
 ```cpp
 #include <iostream>
@@ -61,7 +61,7 @@ I'm interested in programming, frontend development, UI design, and open-source 
 
 ---
 
-## `02 / TECH_STACK`
+## `/ TECH_STACK`
 
 <div align="center">
 
@@ -83,7 +83,7 @@ I'm interested in programming, frontend development, UI design, and open-source 
 
 ---
 
-## `03 / FEATURED_PROJECTS`
+## `/ FEATURED_PROJECTS`
 
 ### 🌐 Portfolio Website
 
@@ -121,7 +121,7 @@ A college project developed in C to explore the fundamentals of programming and 
 
 ---
 
-## `04 / EXPERIENCE_AND_COMMUNITY`
+## `/ EXPERIENCE_AND_COMMUNITY`
 
 <details>
 <summary><b>🚀 CodeAlpha — Frontend Development Intern</b></summary>
@@ -148,7 +148,7 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 
 ---
 
-## `05 / CURRENT_MISSION`
+## `/ CURRENT_MISSION`
 
 - [ ] Strengthen C and C++ fundamentals
 - [ ] Practice DSA and problem-solving regularly
@@ -161,7 +161,7 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 
 ---
 
-## `06 / GITHUB_STATS`
+## `/ GITHUB_STATS`
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 
 ---
 
-## `07 / CONTRIBUTION_GRAPH`
+## `/ CONTRIBUTION_GRAPH`
 
 <div align="center">
 
@@ -185,7 +185,7 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 
 ---
 
-## `08 / CONTRIBUTION_SNAKE`
+## `/ CONTRIBUTION_SNAKE`
 
 <div align="center">
 
@@ -195,7 +195,7 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 
 ---
 
-## `09 / CONNECT`
+## `/ CONNECT`
 
 <div align="center">
 
