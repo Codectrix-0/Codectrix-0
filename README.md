@@ -171,15 +171,15 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 
 ---
 
-## `/ CONTRIBUTION_GRAPH`
+
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<!-- Keep your contribution graph section here. -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&bg_color=0D0B14&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+[![Divya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&bg_color=0D0B14&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&hide_border=true)](https://github.com/Codectrix-0)
 
 </div>
+
 
 ---
 
