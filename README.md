@@ -105,11 +105,6 @@ An expense-tracking project created to explore web development and financial rec
 
 [View Repository](https://github.com/Codectrix-0/finflow-web)
 
-### 🧠 MindEase
-
-A mental-wellness-themed web project focused on creating a supportive digital experience.
-
-[View Project](https://codectrix-0.github.io/MindEase/)
 
 ### ❤️ Donation Management System
 
