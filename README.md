@@ -17,6 +17,18 @@
 
   ---
 
+  <p align="center">
+  <img src="assets/coding-girl.png"
+       width="420"
+       alt="Girl coding at her laptop"/>
+</p>
+
+<p align="center">
+  <i>Curious mind. Creative ideas. Endless lines of code.</i>
+</p>
+
+---
+
 
 ### `> Hello, World!` 👾
 
