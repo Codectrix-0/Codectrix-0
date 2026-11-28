@@ -109,7 +109,11 @@
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&bg_color=ffffff&color=6d28d9&line=8b5cf6&point=7c3aed&area=true&hide_border=true" width="100%"/>
+  <img
+    src="https://ghchart.rshah.org/8b5cf6/Codectrix-0"
+    alt="Divya's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
