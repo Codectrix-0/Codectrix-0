@@ -60,17 +60,6 @@
 
 ---
 
-<h2 align="center">👩🏻‍💻 MY CODING CORNER</h2>
-
-<p align="center">
-  <img src="assets/coding-girl.png" width="85%" alt="Girl coding at her laptop"/>
-</p>
-
-<p align="center">
-  <i>Curious mind. Creative ideas. Endless lines of code.</i>
-</p>
-
----
 
 <h2 align="center">⚡ TECH STACK & TOOLS</h2>
 
