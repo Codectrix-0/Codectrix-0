@@ -27,166 +27,143 @@
 [GitHub](https://github.com/Codectrix-0) • [LinkedIn](https://www.linkedin.com/in/divyamer/) • [Portfolio](https://portfolio-website-six-alpha-86.vercel.app/)
 
 </div>
-
 ---
-
-## `/ WHO_AM_I`
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    string name = "Divya Mer";
-    string education = "BCA Student";
-    string goal = "Software Engineer";
-
-    cout << "Learning. Building. Improving.";
-    return 0;
-}
-```
-
-Hey! I'm **Divya Mer**, a second-year BCA student pursuing my degree from 2025 to 2028.
-
-I'm interested in programming, frontend development, UI design, and open-source collaboration. I'm currently strengthening my fundamentals and learning to solve problems independently.
-
-- 🎓 **Education:** BCA, expected graduation 2028
-- 💻 **Programming:** C, C++, Python
-- 🌐 **Web:** HTML, CSS, JavaScript
-- 🌱 **Learning:** DSA, React, backend fundamentals
-- 🌍 **Community:** GSSoC 2026 and ECSOC
-- 🎯 **Long-term goal:** Become a skilled software engineer and build useful products
-
----
-
-## `/ TECH_STACK`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="C, C++, Python and Java"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="HTML, CSS, JavaScript and React"/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode&theme=dark" alt="Git, GitHub, Linux, Figma and VS Code"/>
-
-</div>
-
-> Some technologies are familiar tools; others are part of my ongoing learning journey.
-
----
-
-## `/ FEATURED_PROJECTS`
-
-### 🌐 Portfolio Website
-
-My personal space to showcase my projects, technical interests, and growth as a developer.
-
-**Stack:** HTML, CSS, JavaScript
-
-[Visit Portfolio](https://portfolio-website-six-alpha-86.vercel.app/)
-
-### ✅ Smart Task Manager
-
-A web application for organizing tasks, managing priorities, and tracking progress, with a PDF export feature.
-
-**Stack:** HTML, CSS, JavaScript, Firebase
-
-[View Live Project](https://codectrix-0.github.io/smart-task-manager/) · [Source Code](https://github.com/Codectrix-0/smart-task-manager)
-
-### 💸 FinFlow
-
-An expense-tracking project created to explore web development and financial record organization.
-
-[View Repository](https://github.com/Codectrix-0/finflow-web)
-
-
-### ❤️ Donation Management System
-
-A college project developed in C to explore the fundamentals of programming and donation record management.
-
-[Explore Repositories](https://github.com/Codectrix-0?tab=repositories)
-
----
-
-## `/ EXPERIENCE_AND_COMMUNITY`
-
-<details>
-<summary><b>🚀 CodeAlpha — Frontend Development Intern</b></summary>
-
-**July 2026**
-
-An internship experience focused on frontend development and practical project work.
-
-</details>
-
-<details>
-<summary><b>🌍 GirlScript Summer of Code 2026</b></summary>
-
-Contributor experience exploring collaborative development and open-source workflows.
-
-</details>
-
-<details>
-<summary><b>🌱 ECSOC — Open Source Contributor</b></summary>
-
-Exploring real repositories, collaborative coding, and the open-source contribution process.
-
-</details>
-
----
-
-## `/ CURRENT_MISSION`
-
-- [ ] Strengthen C and C++ fundamentals
-- [ ] Practice DSA and problem-solving regularly
-- [ ] Solve coding problems independently
-- [ ] Improve and debug existing projects
-- [ ] Learn React and backend fundamentals
-- [ ] Continue exploring open source
-
-**My approach:** Understand the problem → Write the logic → Code → Test → Learn.
-
----
-
-## `/ GITHUB_STATS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Codectrix-0&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&rank_icon=github" width="49%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C77DFF&text_color=E0AAFF" width="41%" alt="Most used programming languages"/>
-
-</div>
-
----
-
-
-## 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-[![Divya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&bg_color=0D0B14&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&hide_border=true)](https://github.com/Codectrix-0)
-
-</div>
 
 
 ---
 
-## `/ CONTRIBUTION_SNAKE`
+<h2 align="center">✦ A LITTLE ABOUT ME ✦</h2>
 
-<div align="center">
+<p align="center">
+  Hey! I'm Divya, a BCA student who enjoys exploring technology,
+  solving problems, and learning how software works.
+</p>
 
-<img src="https://raw.githubusercontent.com/Codectrix-0/Codectrix-0/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
+<p align="center">
+  🌱 Currently exploring Data Structures & Algorithms<br/>
+  💻 Learning web development and software development<br/>
+  🌍 Interested in Open Source Contributions<br/>
+  🎯 Working towards becoming a better problem solver<br/>
+  ✨ Learning something new with every commit
+</p>
 
 ---
+
+<h2 align="center">👩🏻‍💻 MY CODING CORNER</h2>
+
+<p align="center">
+  <img src="assets/coding-girl.png" width="85%" alt="Girl coding at her laptop"/>
+</p>
+
+<p align="center">
+  <i>Curious mind. Creative ideas. Endless lines of code.</i>
+</p>
+
+---
+
+<h2 align="center">⚡ TECH STACK & TOOLS</h2>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=light"/>
+</p>
+
+<h3 align="center">Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=light"/>
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=light"/>
+</p>
+
+---
+
+<h2 align="center">📚 CURRENT LEARNING JOURNEY</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Development-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Codectrix-0&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7C3AED&icon_color=8B5CF6&text_color=333333&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codectrix-0&layout=compact&hide_border=true&bg_color=ffffff&title_color=7C3AED&text_color=333333"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Codectrix-0&theme=default&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=7C3AED&currStreakLabel=7C3AED"/>
+</p>
+
+---
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codectrix-0&bg_color=ffffff&color=6d28d9&line=8b5cf6&point=7c3aed&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<h2 align="center">🎓 MY JOURNEY</h2>
+
+<p align="center">
+  🎓 BCA Student (2025 – 2028)<br/>
+  💻 Started exploring programming and development<br/>
+  🌱 Growing through hands-on learning<br/>
+  🌍 Exploring the open-source community<br/>
+  🚀 Building skills one step at a time
+</p>
+
+---
+
+<h2 align="center">💭 MY DEVELOPER PHILOSOPHY</h2>
+
+<p align="center">
+  <b>Understand the problem → Write the logic → Code → Test → Learn.</b>
+</p>
+
+<p align="center">
+  <i>"Every expert was once a beginner who refused to give up."</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%92%9C;Keep+Building+%F0%9F%92%BB;Keep+Contributing+%F0%9F%8C%B1"/>
+</p>
+
+---
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+  <a href="https://github.com/Codectrix-0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/divyamer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:divyamer066@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my corner of GitHub! 💜</b>
+</p>
+
+<p align="center">
+  <i>Made with curiosity, coffee & lots of debugging.</i>
+</p>
+
 
 ## `/ CONNECT`
 
@@ -199,9 +176,6 @@ Exploring real repositories, collaborative coding, and the open-source contribut
 <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-### `> End of file. Not end of journey.`
-
-*“Stay curious. Keep building. Trust the process.”* 💜
-
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:3C096C,100:0D0B14&height=100&section=footer" width="100%" alt="Purple profile footer"/>
 
