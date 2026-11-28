@@ -18,7 +18,7 @@
   ---
 
   <p align="center">
-  <img src="assets/coding-girl.png"
+  <img src="assets/coding.png"
        width="420"
        alt="Girl coding at her laptop"/>
 </p>
