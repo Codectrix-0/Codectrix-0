@@ -165,17 +165,5 @@
 </p>
 
 
-## `/ CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/Codectrix-0">
-<img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=E0AAFF" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/divyamer/">
-<img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
----
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:3C096C,100:0D0B14&height=100&section=footer" width="100%" alt="Purple profile footer"/>
 
