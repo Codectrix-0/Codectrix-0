@@ -17,8 +17,8 @@
 
   ---
 
-  <p align="center">
-  <img src="assets/coding.png"
+ <p align="center">
+  <img src="coding.png"
        width="420"
        alt="Girl coding at her laptop"/>
 </p>
@@ -26,7 +26,6 @@
 <p align="center">
   <i>Curious mind. Creative ideas. Endless lines of code.</i>
 </p>
-
 ---
 
 
